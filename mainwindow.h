@@ -28,6 +28,10 @@ private slots:
 
     void on_boton_next_clicked();
 
+    void on_add_orejas_clicked();
+
+    void on_add_corazon_clicked();
+
 private:
     Ui::MainWindow *ui;
 };
